@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="saludo">Hello World!</string>
+    <string name="ciclo">Ciclo de vida</string>
+    <string name="dela">de la </string>
+    <string name="vidaActivity">Activity</string>
+
 </resources>
